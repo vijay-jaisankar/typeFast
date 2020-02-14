@@ -2,7 +2,7 @@ window.addEventListener('load',init);
 
 //Global Variables
 
-//Available leve;s
+//Available levels
 const levels = {
 	easy: 5,
 	medium: 3,
